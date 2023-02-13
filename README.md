@@ -1,11 +1,13 @@
-# Modelling and understanding migrating applications: A dynamic model approach
-In this folder, we find the elements required to reproduce the validating experiment in Mac/Intel installation. 
-You can reproduce the experiment in Linux or windows, but for doing so it is required to adapt the **experiment.sh** to work on those technologies. 
-If the paper is accepted we can do the extra effort of automatizing this process for windows and Linux and for publishing it in GitHub.
+# Understanding the Migration of Applications with Typing Ontologies
+In this folder, we find the elements required to reproduce the validating experiment.
+You can reproduce the experiment in Linux or windows, but for doing so, it is required to adapt the **experiment.sh** to work on those technologies. 
+
+If the paper is accepted, we can make the extra effort of automating this process for windows and Linux and publishing it in GitHub.
 
 ## The folder is organized as follows: 
-* Fylgja10
+* Binaries
 	 - experiment.sh
+	 - get-pharo.sh
      - Pharo.image    
 	 - Pharo.changes
 	 - Pharo10.0-64bit-570d7ba.sources
